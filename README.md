@@ -1,5 +1,7 @@
 # 猫品种分类器 
-
+注：数据集和模型文件因文件大小无法上传，数据集请到下方链接下载后按照下文的文件结构放入，模型文件：
+- 百度网盘： https://pan.baidu.com/s/1jH6rR4-g-uVkbGJQP3kQjA 提取码: 0721 
+- onedrive: https://cxmhqy-my.sharepoint.com/:u:/g/personal/sam_monkey_0128_ink/EcFGYoPZlfVAlDZ8yEVzOfgBUyRfV11DwMZrjZKSyu83vg?e=tPMMhu
 这是一个使用 TensorFlow/Keras 构建的卷积神经网络 (CNN) 模型，用于识别 12 种不同的猫品种。项目还包含一个使用 Gradio 构建的 Web 用户界面，方便用户上传猫的图片并进行实时预测。
 
 ## ✨ 功能
