@@ -78,4 +78,4 @@ python GradioApp.py
 ```
 
 应用启动后，在浏览器中打开提供的 URL (通常是 `http://127.0.0.1:7860` 。您可以通过界面上传猫的图片，模型将预测其品种，并显示各类别的概率。
-![deepwiki链接](https://deepwiki.com/SamMonkey51/CatIdentify)
+[deepwiki链接](https://deepwiki.com/SamMonkey51/CatIdentify)
